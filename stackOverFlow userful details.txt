@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/51008671/how-to-change-return-button-in-keyboard
+https://stackoverflow.com/questions/41421222/react-native-call-onsubmit-when-pressed-returnkeytype
+
